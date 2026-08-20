@@ -1,2 +1,3 @@
+
 Método seleccionado: gauss
 Tolerancia: 1e-6
