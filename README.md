@@ -9,3 +9,5 @@ Objetivo:
 - combinar trabajo,
 - provocar y resolver un conflicto,
 - practicar repositorios remotos.
+
+Escribio Javier
