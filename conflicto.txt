@@ -1,0 +1,2 @@
+Método seleccionado: trapecio
+Tolerancia: 1e-6

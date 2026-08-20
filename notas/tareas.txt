@@ -1,0 +1,5 @@
+Tareas pendientes:
+- revisar unidades
+- documentar el análisis
+- comparar métodos numéricos
+- preparar una figura

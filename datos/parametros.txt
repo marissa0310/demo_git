@@ -1,0 +1,4 @@
+masa = 1.0
+gravedad = 9.81
+paso = 0.10
+metodo = trapecio

@@ -1,0 +1,7 @@
+Bitácora del proyecto
+
+Día 1:
+Se creó el proyecto y se agregaron datos iniciales.
+
+Día 2:
+Se planea implementar una rutina de análisis.

@@ -1,0 +1,1 @@
+Idea: agregar una comparación entre trapecio y Simpson.

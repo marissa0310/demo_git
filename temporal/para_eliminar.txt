@@ -1,0 +1,1 @@
+Este archivo existe únicamente para demostrar git rm.
