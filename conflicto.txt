@@ -1,2 +1,2 @@
-Método seleccionado: trapecio
+Método seleccionado: simpson 
 Tolerancia: 1e-6
